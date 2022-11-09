@@ -8,7 +8,7 @@ This repository holds the official Jekyll version of the Clean Blog theme on Sta
 
 [![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/screenshots/themes/clean-blog-jekyll.png)](http://StartBootstrap.github.io/startbootstrap-clean-blog-jekyll/)
 
-**[View Live Preview](http://StartBootstrap.github.io/startbootstrap-clean-blog-jekyll/)**
+**[View Live Preview](https://jongwonkim-1997.github.io/)**
 
 ## Installation & Setup
 
